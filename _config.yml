@@ -1,2 +1,4 @@
 remote_theme: riggraz/no-style-please
 title: Notes to self
+theme_config:
+  date_format: "%d-%m-%Y"
