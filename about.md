@@ -4,8 +4,6 @@ title: About
 ---
 
 Thanks for clicking here! My name is Saravanan. I am a son, husband, father who happens to appreciate
-computer science, music, literature a lot. I am a software engineer and an ardent fan of computer systems.
-At times I wonder as if I had been seen a 1000 story building when I study systems. That is true to an extent. 
-We can't see software but when we get to study software we realize how beautiful it is.  
+multiple things including computer science, literature, music. I practice software engineering for my living. Isn't it amazing to see how software systems work? The fact that you are able to see this page sitting from a far off place in itself is a wonder! As much as I appreciate software systems, I do love literature and music. They have been my good friends during challenging times. 
 
 

@@ -1,6 +1,16 @@
-remote_theme: riggraz/no-style-please
-title: Notes to self
+title: Notes
 theme_config:
   date_format: "%d-%m-%Y"
 
-theme: jekyll-theme-cayman
+permalink: /:slug.html
+description: about things I deeply value
+theme: no-style-please
+
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: true # show blog description in home page
+
+sass:
+  style: :compressed
