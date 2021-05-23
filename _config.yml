@@ -3,8 +3,9 @@ theme_config:
   date_format: "%d-%m-%Y"
 
 permalink: /:slug.html
-description: about things I deeply value
+description: about things I deeply appreciate
 theme: no-style-please
+favicon: "logo.png"
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
