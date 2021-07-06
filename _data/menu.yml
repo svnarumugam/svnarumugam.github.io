@@ -1,9 +1,24 @@
 entries:
-  
-  - title: /thoughts
-    post_list: true
+  - title: personal
+    post_list: false
     url: false
-    entries: false
+    entries:
+      - title: family
+        post_list: true
+        category: family
+        url: false
+        entries: false
 
-  - title: /about
+      - title: stories  
+        post_list: true
+        category: stories
+        url: false
+        entries: false
+      - title: learning 
+        post_list: true
+        category: learning
+        url: false
+        entries: false
+
+  - title: about
     url: "/about"
