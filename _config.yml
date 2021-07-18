@@ -5,7 +5,7 @@ theme_config:
 permalink: /:slug.html
 description: about things I deeply appreciate
 theme: no-style-please
-favicon: "logo.png"
+favicon: "svn-blog-tree.png"
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
