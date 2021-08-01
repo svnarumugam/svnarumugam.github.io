@@ -19,6 +19,14 @@ entries:
         category: learning
         url: false
         entries: false
-
+  - title: professional
+    post_list: false
+    url: false
+    entries:
+      - title: learning
+        post_list: true
+        category: p_learning
+        url: false
+        entries: false       
   - title: about
     url: "/about"
