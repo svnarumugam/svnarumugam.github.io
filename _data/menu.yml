@@ -27,6 +27,6 @@ entries:
         post_list: true
         category: p_learning
         url: false
-        entries: false       
+        entries: false     
   - title: about
     url: "/about"
