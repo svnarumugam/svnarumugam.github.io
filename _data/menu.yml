@@ -28,5 +28,7 @@ entries:
         category: p_learning
         url: false
         entries: false     
+  - title: quotes
+    url: "/quotes"
   - title: about
     url: "/about"
